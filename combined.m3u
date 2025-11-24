@@ -1,81 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports | US",ESPN U (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports | US",ESPN (Primary)
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="ESPNews.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ESPNews.svg/512px-ESPNews.svg.png" group-title="Sports | US",ESPNews (720p)
+#EXTINF:-1 tvg-id="ESPNews.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ESPNews.svg/512px-ESPNews.svg.png" group-title="Sports | US",ESPN (Backup 1)
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Sports | US",ESPN Deportes (360p)
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Sports | US",ESPN (Backup 2)
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports | US",ACCN (720p)
-https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="SECNetwork.us@SD" group-title="Sports | US",SEC Network
-http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="BigTenNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png" group-title="Sports | US",Big Ten Network
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png" group-title="Sports | US",BTN (Primary)
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports | US",Fox Sports 2 (720p)
-http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports | US",CBS Sports Network USA
+#EXTINF:-1 tvg-id="SECNetwork.us@SD" group-title="Sports | US",SEC Network (Primary)
+http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Sports",FOX (Primary)
+http://181.209.125.237:9000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",FOX (Backup 1)
+https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports | US",CBS (Primary)
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports | US",CBS Sports HQ
-https://dai.google.com/linear/hls/event/BCcI_Tp7Qy2s1uJoK7z6-w/master.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports | US",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/f-EDF6W2Q2ik2WvR6t4eZQ/master.m3u8
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fubo_Sports_Network_logo.svg/512px-Fubo_Sports_Network_logo.svg.png" group-title="Sports | US",Fubo Sports Network (1080p)
-https://livetv-fa.tubi.video/fubo/master.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FanDuel_Linear_Network_logo.svg/512px-FanDuel_Linear_Network_logo.svg.png" group-title="Sports | US",FanDuel Sports Network
-https://fl1.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroit.us@SD" tvg-logo="https://seeklogo.com/images/B/bally-sports-detroit-logo-B4ACF268AC-seeklogo.com.png" group-title="Sports | US",FanDuel Sports Network Detroit
-https://fl7.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8
-#EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sports | US",Stadium (720p)
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004209001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/NBC_Sports_Bay_Area.png/512px-NBC_Sports_Bay_Area.png" group-title="Sports | US",NBC Sports Bay Area (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS (Backup 1)
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS (Backup 2)
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/NBC_Sports_Bay_Area.png/512px-NBC_Sports_Bay_Area.png" group-title="Sports | US",NBC (Primary)
 https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 tvg-id="NBCSportsBoston.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png" group-title="Sports | US",NBC Sports Boston (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="NBCSportsBoston.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png" group-title="Sports | US",NBC (Backup 1)
 https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" group-title="Sports | US",NBC Sports Philadelphia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" group-title="Sports | US",NBC (Backup 2)
 https://tvpass.org/live/nbc-sports-philadelphia/hd
-#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports | US",SportsNet New York (540p)
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports | US",International Sports Backup (Primary)
 https://fl1.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 tvg-id="TUDN.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports | US",TUDN (1080p)
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/CIwIwUcQ.png" group-title="Sports | US",Women's Sports Network (720p)
-https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports | Intl Backup",TSN1 (1080p) (Intl Backup)
+#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports | Intl Backup",International Sports Backup (Backup 1)
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports | Intl Backup",TSN2 (Intl Backup)
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca@SD" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports | Intl Backup",TSN3 (Intl Backup)
-https://fl1.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports | Intl Backup",TSN4 (Intl Backup)
+#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports | Intl Backup",International Sports Backup (Backup 2)
 https://fl1.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports | Intl Backup",TSN5 (Intl Backup)
+#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports | Intl Backup",International Sports Backup (Backup 3)
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogoprod.blob.core.windows.net/media/Default/Logos/TSN-The-Ocho_20240709T002034SQUARE.png" group-title="Sports | Intl Backup",TSN The Ocho (Intl Backup)
+#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogoprod.blob.core.windows.net/media/Default/Logos/TSN-The-Ocho_20240709T002034SQUARE.png" group-title="Sports | Intl Backup",International Sports Backup (Backup 4)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-id="PremierSports1.mn@SD" tvg-logo="https://i.imgur.com/t5qCejI.png" group-title="Sports | Intl Backup",Premier Sports 1 (480p) (Intl Backup)
-http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-id="PremierSports2.mn@SD" tvg-logo="https://i.imgur.com/eMNWhDq.png" group-title="Sports | Intl Backup",Premier Sports 2 (Intl Backup)
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-id="PremierSports4.mn@SD" tvg-logo="https://i.imgur.com/XHBJ7UB.png" group-title="Sports | Intl Backup",Premier Sports 4 (480p) (Intl Backup)
-http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-id="PremierSports5.mn@SD" tvg-logo="https://i.imgur.com/LkIe9gR.png" group-title="Sports | Intl Backup",Premier Sports 5 (480p) (Intl Backup)
-http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" group-title="Sports | Intl Backup",beIN Sports USA (Intl Backup)
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" group-title="Sports | Intl Backup",International Sports Backup (Backup 5)
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.imgur.com/YEV4ROg.png" group-title="Sports | Intl Backup",BeIN SPORTS XTRA (1080p) [Geo-blocked] (Intl Backup)
-https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/pWduWxf.png" group-title="Sports | Intl Backup",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked] (Intl Backup)
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/pWduWxf.png" group-title="Sports | Intl Backup",International Sports Backup (Backup 6)
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FightNetwork.ca@SD" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports | Fights",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="FightNight.za@SD" tvg-logo="https://i.imgur.com/hFmxfzT.png" group-title="Sports | Fights",Fight Night (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/playlist.m3u8
-#EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-logo="https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg" group-title="Sports | Fights",Persiana Fight
-https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sports | Fights",MMA-TV.com
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports | Fights",Bellator MMA
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/564ln0mcv2lbnkfd9t/0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&app_device_type=web&architecture=&buildVersion=&clientTime=0&deviceDNT=false&deviceId=564ln0mcv2lbnkfd9t&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803&userId=
-#EXTINF:-1 tvg-id="TVMaticFight.br@SD" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Sports | Fights",TVMatic Fight (720p)
-http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" group-title="Sports",International Sports Backup (Backup 7)
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",International Sports Backup (Backup 8)
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports",International Sports Backup (Backup 9)
+https://fl1.moveonjoy.com/SNY/index.m3u8
